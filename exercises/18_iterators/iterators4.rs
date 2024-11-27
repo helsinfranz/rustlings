@@ -10,6 +10,20 @@ fn factorial(num: u64) -> u64 {
     // - additional variables
     // For an extra challenge, don't use:
     // - recursion
+
+    // First Method
+
+    // let mut a = num.clone();
+    // let mut b = 1;
+    // while a > 0 {
+    //     b *= a;
+    //     a -= 1;
+    // }
+    // b
+
+    // Other method
+
+    (2..=num).product()
 }
 
 fn main() {
