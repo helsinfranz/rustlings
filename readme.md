@@ -5,7 +5,7 @@
 +--------------------------  ------------------------+
                            \/
 
-                           
+  ```                         
      ▒▒          ▒▒▒▒▒▒▒▒      ▒▒▒▒▒▒▒▒          ▒▒
    ▒▒▒▒  ▒▒    ▒▒        ▒▒  ▒▒        ▒▒    ▒▒  ▒▒▒▒
    ▒▒▒▒  ▒▒  ▒▒            ▒▒            ▒▒  ▒▒  ▒▒▒▒
@@ -21,7 +21,7 @@
        ▒▒    ▒▒    ▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒▒    ▒▒    ▒▒
        ▒▒  ▒▒    ▒▒                  ▒▒    ▒▒  ▒▒
            ▒▒  ▒▒                      ▒▒  ▒▒
-
+```
 We hope you enjoyed learning about the various aspects of Rust!
 If you noticed any issues, don't hesitate to report them on Github.
 You can also contribute your own exercises to help the greater community!
